@@ -44,14 +44,17 @@ export const links: Link[] = [
     href: "",
     subLinks: [
       {
+        icon: "",
         text: "History",
         link: "#",
       },
       {
+        icon: "",
         text: "Our Team",
         link: "#",
       },
       {
+        icon: "",
         text: "Blog",
         link: "#",
       },
